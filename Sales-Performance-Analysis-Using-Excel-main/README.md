@@ -10,7 +10,7 @@ This repository contains Excel files and resources for data visualization using 
 - [Technologies Used](#technologies-used)
 - [Insights](#insights)
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 
 ## Project Description
